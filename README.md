@@ -302,6 +302,6 @@ app.run(debug=True, port=5001)
 
 ---
 
-**Made with ❤️ using Flask and modern web technologies**
+## 👨‍💻 Author
 
-*Order Management System v1.0 - Built for efficiency, designed for beauty*
+**Muhammad Sarim**
